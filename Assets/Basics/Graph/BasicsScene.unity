@@ -461,7 +461,7 @@ MonoBehaviour:
   computeShader: {fileID: 7200000, guid: df485fdb8d5db8149be8ab8eee814a3b, type: 3}
   Material: {fileID: 2100000, guid: b1c23890731aef94e9c87bbafb7f8c0e, type: 2}
   Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
-  resolution: 1000
+  resolution: 529
   Function: 4
   transitionMode: 0
   TunctionDuration: 2
