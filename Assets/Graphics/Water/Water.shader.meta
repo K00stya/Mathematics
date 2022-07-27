@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 00de41aa40a89514997b3f56e6d7d71f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CoastMaskTexture: {fileID: 2800000, guid: 3590c244775231540b625abdea543cc7, type: 3}
+  - _Displace_3D: {fileID: 11700000, guid: 9ede177b7fab1be4e9df07b0557528fb, type: 2}
+  - _Normals_3D: {fileID: 11700000, guid: 4bcd59b355781a24f886d3fc0138a0ca, type: 2}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
